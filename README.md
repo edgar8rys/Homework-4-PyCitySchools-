@@ -3,7 +3,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Your final report should include each of the following:
 
-# District Summary
+## District Summary
 Create a high level snapshot (in table form) of the district's key metrics, including:
 
 - Total Schools
@@ -15,7 +15,7 @@ Create a high level snapshot (in table form) of the district's key metrics, incl
 - % Passing Reading
 - Overall Passing Rate (Average of the above two)
 
-# School Summary
+## School Summary
 Create an overview table that summarizes key metrics about each school, including:
 
 - School Name
@@ -29,5 +29,5 @@ Create an overview table that summarizes key metrics about each school, includin
 - % Passing Reading
 - Overall Passing Rate (Average of the above two)
 
-# On Your own
+## On Your own
 Find your own conclusions about the school district. Be creative!
